@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1634731941 source:c:\users\valen\desktop\utn\valentinobastardop1lab\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1634739831 c:\users\valen\desktop\utn\valentinobastardop1lab\color.h
+
+1634739831 source:c:\users\valen\desktop\utn\valentinobastardop1lab\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1634739931 c:\users\valen\desktop\utn\valentinobastardop1lab\mibiblioteca.h
+
+1634731941 source:c:\users\valen\desktop\utn\valentinobastardop1lab\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipo.h"
+
+1634739931 c:\users\valen\desktop\utn\valentinobastardop1lab\tipo.h
+
+1634737005 source:c:\users\valen\desktop\utn\valentinobastardop1lab\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+
+1634739831 c:\users\valen\desktop\utn\valentinobastardop1lab\servicio.h
+
+1634737877 source:c:\users\valen\desktop\utn\valentinobastardop1lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"miBiblioteca.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"bicicleta.h"
+	"trabajo.h"
+
+1634739831 c:\users\valen\desktop\utn\valentinobastardop1lab\bicicleta.h
+	"miBiblioteca.h"
+	"tipo.h"
+	"color.h"
+
+1634735249 source:c:\users\valen\desktop\utn\valentinobastardop1lab\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+
+1634739831 source:c:\users\valen\desktop\utn\valentinobastardop1lab\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+
+1634732936 c:\users\valen\desktop\utn\valentinobastardop1lab\fecha.h
+
+1634738804 c:\users\valen\desktop\utn\valentinobastardop1lab\trabajo.h
+	"fecha.h"
+	"bicicleta.h"
+	"servicio.h"
+
+1634738086 source:c:\users\valen\desktop\utn\valentinobastardop1lab\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+
